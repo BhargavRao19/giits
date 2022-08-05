@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Nithin K R idninv
 uryetoyrtqwyirot
+=======
+Nithin K R idninv
+>>>>>>> master
